@@ -13,12 +13,15 @@ This is a project about the biography of Tegei, the purpose and usage of the pro
 - You will learn on Tegei's reason for doing the course.
 - The project is easy-to-understand
 - Just click on the hyperlinks that will direct you to view Github projects.
+- Git clone https://github.com/itegei/Week-Two-IP.git
+- Open cloned code on VS code
+- Run on live server
 
 ## Known Bugs
 There are no known bugs on this project.
 
 ## Technologies Used
-Languages used include HTML, and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
+Languages used include HTML, CSS, Js an. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
 
 ## Support and contact details
 
@@ -26,7 +29,7 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 
 ### Live Link
 
-https://itegei.github.io/Week-One-Portfolio/
+https://itegei.github.io/Week-Two-IP/
 
 ### License
 
