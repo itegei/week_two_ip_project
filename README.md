@@ -34,4 +34,3 @@ https://itegei.github.io/week_two_portfolio/
 ### License
 
 _The License used is GPL_# final_copy_name
-# week_two_ip_project
