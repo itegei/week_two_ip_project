@@ -13,7 +13,7 @@ This is a project about the biography of Tegei, the purpose and usage of the pro
 - You will learn on Tegei's reason for doing the course.
 - The project is easy-to-understand
 - Just click on the hyperlinks that will direct you to view Github projects.
-- Git clone https://github.com/itegei/Week-Two-IP.git
+- Git clone https://github.com/itegei/week_two_ip_project.git
 - Open cloned code on VS code
 - Run on live server
 
@@ -34,3 +34,4 @@ https://itegei.github.io/Week-Two-IP/
 ### License
 
 _The License used is GPL_# final_copy_name
+# week_two_ip_project
